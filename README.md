@@ -27,18 +27,7 @@ c
   <li>Back-end: PHP </li>
   <li>Database: MySQL</li>
  </ul>
-<h2>Installation</h2>
-1. Clone the repository: git clone https://github.com/your-username/organ-donation.git <br>
-2. Import the database schema using database.sql file. <br>
-3. Configure the database connection in config.php. <br>
-4. Deploy the project on a PHP-enabled web server. <br>
 
-
-
-<h2>Contact</h2>
-If you have any questions or suggestions regarding the project, please feel free to reach out to us:
-
-Email: abdullah.shafi1191@gmail.com
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdullah-al-shafi200/)https://www.linkedin.com/in/abdullah-al-shafi200/
 
 
